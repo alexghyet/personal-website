@@ -1,14 +1,14 @@
 const projects = [
     {
     title: 'Peptide Embedding Visualizer',
-    decsription: 'Reducing high-dimensional ProteoGPT peptide embeddings with UMAP and DensMAP to visualize and classify antimicrobial peptides via a Streamlit research tool.',
+    description: 'Reducing high-dimensional ProteoGPT peptide embeddings with UMAP and DensMAP to visualize and classify antimicrobial peptides via a Streamlit research tool.',
     tools: ['Python', 'UMAP', 'DensMAP', 'ProteoGPT','Streamlit'],
     link: 'https://github.com/alexghyet',
 },
 { 
     title: 'Personal Website',
-    decsription: 'Designed and built with React. Just wanted to learn the fundamentals and mess around with CSS and see how it works!',
-    tools: ['React', 'Python', 'CSS'],
+    description: 'Designed and built with React. Just wanted to learn the fundamentals and mess around with CSS and see how it works!',
+    tools: ['React', 'CSS'],
     link: ''
     },
 ]

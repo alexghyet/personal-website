@@ -11,8 +11,8 @@ function Navbar() {
       backgroundColor: '#0a0a0a',
     }}>
 
-      <span style={{ color: '#00d0ff', fontSize: '20px' }}>
-        Welcome
+      <span style={{ color: '#00d0ff', fontSize: '20px', fontWeight: '700' }}>
+        Hey there friend! 
       </span>
 
       <div style={{ display: 'flex', gap: '30px' }}>

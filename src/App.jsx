@@ -2,6 +2,7 @@ import Navbar from './Navbar'
 import Hero from './Hero'
 import About from './About'
 import Project from './Project'
+import Blog from './Blog'
 
 function App() { 
   return ( 
@@ -10,6 +11,8 @@ function App() {
       <Hero/>
       <About/>
       <Project/>
+      <Blog/>
+
     </div>
   )
 }
